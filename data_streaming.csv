@@ -1,0 +1,1 @@
+step,type,amount,nameOrig,oldbalanceOrg,newbalanceOrig,nameDest,oldbalanceDest,newbalanceDest,isFraud,isFlaggedFraud,RDisFraud,DTisFraud,LRisFraud
